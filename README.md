@@ -15,6 +15,7 @@ If you choose to clone the source, after cloning it, do the following
 
 ## Downloading ParticleEmitter.dll
 If you choose to download the .dll, perform teh following after downloading
+1. Download from the [Releases](https://github.com/manbeardgames/particle-emitter/releases) page and unzip.  ([Latest Release is Version 1.0.0](https://github.com/manbeardgames/particle-emitter/releases/tag/v1.0.0))
 1. Right-click the MonoGame project in the Solution Explorer window
 2. Choose "Add > Reference"
 3. Choose "Browse" on the left side panel
